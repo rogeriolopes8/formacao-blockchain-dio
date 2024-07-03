@@ -1,11 +1,7 @@
 
 ## Objetivo
-Criar a carteira de criptmoedas
+1° Modulo : Criar a carteira de criptmoedas
 
-## Ferramentas
--Instalar o Node
-
--Instalar o VsCode
 
 
 

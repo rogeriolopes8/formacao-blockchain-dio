@@ -1,2 +1,7 @@
-# formacao-blockchain-dio
-Repositório contendo os desafios de projeto da formação
+
+## Objetivo
+Criar a carteira de criptmoedas
+
+## Ferramentas
+Instalar o Node
+Instalar o VsCode
